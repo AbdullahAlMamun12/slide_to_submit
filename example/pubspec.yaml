@@ -1,0 +1,25 @@
+name: example
+description: Demonstrates how to use the slide_to_submit package.
+publish_to: 'none' # Prevent this example app from being published.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Add your package as a dependency using a path reference.
+  # This tells Flutter to get the package from the parent directory.
+  slide_to_submit_button:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/arrow_right.png
