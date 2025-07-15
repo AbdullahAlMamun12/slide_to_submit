@@ -1,4 +1,4 @@
-## \[1.0.1] - 2025-07-15
+## \[1.0.2] - 2025-07-15
 
 * 🖼️ Added a screenshot image to `README.md` for visual demonstration.
 

@@ -114,7 +114,7 @@ Use this when you want to design your own slider widget.
 
 ## 📷 Screenshots
 
-![Slide Demo](screenshots/demo.gif)
+![Slide Demo](https://raw.githubusercontent.com/AbdullahAlMamun12/slide_to_submit/refs/heads/main/screenshots/demo.gif)
 
 ---
 
